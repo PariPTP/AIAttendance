@@ -48,7 +48,7 @@ function loadLabeledImages() {
     "Sehaj",
     "Captain Marvel",
     "Hawkeye",
-    "Jim Rhodes",
+    "Parker",
     "Thor",
     "Tony Stark",
   ];
